@@ -9,9 +9,9 @@
 
 
 ## Tawan
--Manual
+-Manual  
   ![image](https://github.com/user-attachments/assets/eb3f903e-c7ae-435d-b811-a23e4d7d9e74)
 
 
--Auto
+-Auto  
   ![image](https://github.com/user-attachments/assets/5e2ce8f8-359d-4454-8cf4-27cfd4ccdf2f)
